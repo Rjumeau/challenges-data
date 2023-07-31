@@ -12,8 +12,20 @@
   },
 
   {
+    "name": "Remove First and Last Character",
+    "url": "56bc28ad5bdaeb48760009b0",
+    "kata": 8
+  },
+
+  {
     "name": "Grasshopper - Summation",
     "url": "55d24f55d7dd296eb9000030",
+    "kata": 8
+  },
+
+  {
+    "name": "Opposites Attract",
+    "url": "555086d53eac039a2a000083",
     "kata": 8
   },
 
@@ -30,8 +42,8 @@
   },
 
   {
-    "name": "List Filtering",
-    "url": "53dbd5315a3c69eed20002dd",
+    "name": "Complementary DNA",
+    "url": "554e4a2f232cdd87d9000038",
     "kata": 7
   },
 
